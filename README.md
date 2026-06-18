@@ -14,7 +14,7 @@ Built with the [MultiFuncShield](https://www.multifunction-shield.com/) and the 
 4. The player must press the buttons in the exact sequence of the hidden password.
 5. **Correct press** → a short beep sounds and the binary LED counter advances.
 6. **Wrong press** → 2 seconds are deducted from the timer and the progress resets.
-7. **Last 10 seconds** → the display blinks and a warning beep sounds every second.
+7. **Last 10 seconds** → the display blinks and a warning beep sounds every second. (The beep may be bugged, I dont have an arduino to test it)
 
 ### 🏆 Win / Lose 😔
 
